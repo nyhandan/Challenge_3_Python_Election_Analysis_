@@ -22,3 +22,4 @@ Here is the Deliverable 1 output that breaks down the election results:
 - Diana DeGette won because she got 73.8% of the votes, which equates to 272,892 votes.
 
 ## Election-Audit Summary
+This program can run for any election just by switching out a few variable lists. As long as the data is saved on a CSV file, you can import any election data you need to analyze! In line 10 of [our code](https://github.com/nyhandan/Challenge_3_Python_Election_Analysis_/blob/main/Challenge_3_Resources/Python_Challenge.py), you can change the input "election_results.csv" to the file of your choice, as long as there is a valid file path to it. Also, in line 84 of [our code](https://github.com/nyhandan/Challenge_3_Python_Election_Analysis_/blob/main/Challenge_3_Resources/Python_Challenge.py), you can customize the variable to print an aspect of your list. 
