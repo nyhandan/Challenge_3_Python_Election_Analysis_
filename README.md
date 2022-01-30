@@ -15,10 +15,10 @@ Here is the Deliverable 1 output that breaks down the election results:
 
 - There were three counties found in the [dataset](https://github.com/nyhandan/Challenge_3_Python_Election_Analysis_/blob/main/Challenge_3_Resources/election_results.csv): Jefferson, Denver, and Arapahoe counties. Jefferson county got 10.5% of votes, Denver county had 82.8% of votes, and Arapahoe got 6.7% of the votes. Denver had the highest voter turnout, at 306,055 votes. I specifically mentioned the voter turnout using [this code](https://courses.bootcampspot.com/courses/1018/pages/3-dot-6-3-write-the-winning-candidates-results-to-a-text-file?module_item_id=396013) text write method on the output. Jefferson county had 38855 votes, and Arapahoe had 24,801 votes. 
 
-- Which county had the largest number of votes?
+- Denver county had the most votes, which was 306,055 votes. 
 
-- Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+- The [three candidates](https://github.com/nyhandan/Challenge_3_Python_Election_Analysis_/blob/main/Challenge_3_Resources/election_results.csv) are Charles Casper, Diana DeGette, and Raymon Anthony Doane. Charles Casper got 23% of the votes, Diana DeGette got 73.8% of the votes, and Raymon Anthony Doane got 3.1% of the votes. 
 
-- Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+- Diana DeGette won because she got 73.8% of the votes, which equates to 272,892 votes.
 
 ## Election-Audit Summary
